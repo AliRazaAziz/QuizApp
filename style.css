@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(211, 192, 192) ;
+    font-size: 18px;
+    font-weight: bold;
+}
+div{
+    margin: 40px;
+}
+#btn{
+    font-size: 16px;
+    margin: 10px 40px;
+    background-color: rgb(36, 47, 61);
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
